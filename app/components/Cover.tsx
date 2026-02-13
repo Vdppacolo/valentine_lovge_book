@@ -5,7 +5,7 @@ export default function Cover({ onOpen }: { onOpen: () => void }) {
     <div className="card w-full max-w-lg bookCover">
       <div className="coverInner">
         <div className="badge">Valentine’s Edition</div>
-        <h1 className="title big">18 Reasons I Love You</h1>
+        <h1 className="title big">9 Reasons I Love You</h1>
         <p className="sub">
           A little book, just for you.
         </p>
